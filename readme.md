@@ -10,9 +10,10 @@ This connector is tested to work with http://loopback.io strongloop framework ge
 
 Following are the capabilities of this connector
 * Can read Swagger 2.0 file and generate External Object in salesforce
-* It can query data in listview and detail view.
+* It can query data in list view and detail view.
 * It provides sorting 
-* It provides paging 
+* It provides paging
+* Works with both classic and lightning interfaces
 
 To Do
 * Searching
