@@ -9,10 +9,10 @@ This connector is designed to show case the capabilities of Salesforce Connect's
 This connector is tested to work with http://loopback.io strongloop framework generate api. 
 
 Following are the capabilities of this framework
-1. Can read Swagger 2.0 file and generate External Object in salesforce
-2. It can query data in listview and detail view.
-3. It provides sorting 
-4. It provides paging 
+* Can read Swagger 2.0 file and generate External Object in salesforce
+* It can query data in listview and detail view.
+* It provides sorting 
+* It provides paging 
 
 To Do
 1. Searching
