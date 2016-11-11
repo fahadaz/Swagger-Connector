@@ -6,7 +6,7 @@ This connector is designed to show case the capabilities of Salesforce Connect's
 
 "Swagger is a simple yet powerful representation of your RESTful API." (http://swagger.io/).    
 
-This connector is tested to work with http://loopback.io strongloop framework generate api. 
+This connector is tested to work with http://loopback.io strongloop framework generated api. 
 
 Following are the capabilities of this framework
 * Can read Swagger 2.0 file and generate External Object in salesforce
