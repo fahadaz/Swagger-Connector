@@ -15,13 +15,13 @@ Following are the capabilities of this framework
 * It provides paging 
 
 To Do
-1. Searching
-2. Upsert
-3. Delete
-4. Authentication
+* Searching
+* Upsert
+* Delete
+* Authentication
 
 Gotach's
-1. Entering end service url should not include a forward slash
+* Entering end service url should not include a forward slash
     Correct: https://sub.domain.com
-2. Entity names should be singular. Service automatically adds 's' to the url.
+* Entity names should be singular. Service automatically adds 's' to the url.
 
