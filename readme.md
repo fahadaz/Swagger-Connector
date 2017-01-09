@@ -26,3 +26,4 @@ Gotach's
     Correct: https://sub.domain.com
 * Entity names should be singular. Service automatically adds 's' to the url.
 
+Sample Heroku Service (https://github.com/fahadaz/contact-app)
