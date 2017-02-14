@@ -14,6 +14,7 @@ Following are the capabilities of this connector
 * It provides sorting 
 * It provides paging
 * Works with both classic and lightning interfaces
+* Salesforce Reporting
 
 To Do
 * Searching
